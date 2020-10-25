@@ -1,0 +1,33 @@
+﻿div, p {
+    text-align: center;
+}
+
+
+container {
+    text-align: center;
+    direction: rtl;
+    margin: 0px auto;
+}
+
+
+#header {
+    background-color: #00d6ff;
+}
+
+#title {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#left_div {
+}
+
+#center_div {
+}
+
+#right_div {
+}
+
+.img {
+    height: 150px;
+}
